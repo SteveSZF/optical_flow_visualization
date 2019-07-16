@@ -1,4 +1,5 @@
 # optical_flow_visualization
+效果动图: ![Image text](https://github.com/SteveSZF/optical_flow_visualization/blob/master/test.gif)
 ## 运行环境
 OS:Ubuntu16.04
 caffe框架:https://github.com/xmfbit/flownet2.git
